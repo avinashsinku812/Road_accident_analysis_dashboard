@@ -19,6 +19,8 @@ Total Casualties with respect to vehicle type
 
 4.Relation between Casualties by Area/ Location & by Day/ Night
 
+DATASET AND DASHBOARD LINK:
+https://drive.google.com/drive/u/0/folders/1PL22IFTCe0kfSdjWt0EMi2yVX2mLiVWW
 
 ## DASHBOARD
 
